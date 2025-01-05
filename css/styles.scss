@@ -185,6 +185,14 @@ body{
             }
         }
     }
+    footer{
+        .footer__change{
+            background-color: rgb(74, 255, 255);
+            
+            width:30%;
+        }
+
+    }
 }
 
 @media (max-width: 820px){
